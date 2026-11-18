@@ -1,0 +1,2 @@
+{"prompt": "Classify this ticket as billing, outage, or account_access: I was charged twice and need a refund.", "task_type": "classification", "answer": "billing"}
+{"prompt": "Should a five-person team with no platform engineer move 20 services to managed Kubernetes now, later, or not at all?", "task_type": "open-ended"}

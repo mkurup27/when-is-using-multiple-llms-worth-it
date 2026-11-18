@@ -1,0 +1,9 @@
+{
+  "_source": "https://docs.digitalocean.com/products/inference/details/pricing/ (fetched 2026-11-13). USD per 1M tokens, standard tier. Keys must match the model slugs you run; check slugs with run_calls.py --check-models.",
+  "glm-5.2": {"input": 1.40, "output": 4.40},
+  "kimi-k2.6": {"input": 0.95, "output": 4.00},
+  "deepseek-v4-pro": {"input": 1.74, "output": 3.48},
+  "anthropic-claude-sonnet-5.5": {"input": 2.00, "output": 10.00},
+  "openai-gpt-5.4-mini": {"input": 0.75, "output": 4.50},
+  "openai-gpt-5.5": {"input": 5.00, "output": 30.00}
+}
